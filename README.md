@@ -44,6 +44,7 @@ Currently serving as an **Assistant at Big Data Laboratory** and a **Teaching As
 ### Featured Projects
 
 #### 💾 Data Engineer (Architecture, Orchestration & ETL)
+*   **[Padel Pricing Scraper and Cloud Data Benchmarking](https://github.com/Abilhzn/Padel-Pricing-Scraper-and-Cloud-Data-Benchmarking/):** An automated, end-to-end ELT pipeline orchestrated by Apache Airflow that extracts Padel venue data and benchmarks cloud transformation runtimes between Snowflake and Azure Databricks.
 *   **[Automated BWF Match Data Pipeline](https://github.com/Abilhzn/Automated-BWF-Match-Data-Pipeline-via-Apache-Airflow):** Automated data scraping and orchestration pipeline utilizing Apache Airflow for sports analytics.
 *   **[ELT Pipeline Workflow](https://github.com/Abilhzn/ELT-Pipeline-Workflow):** Designing and demonstrating Extract, Load, Transform (ELT) integration workflows.
 *   **[Instagram Scraper](https://github.com/Abilhzn/Scraping-Comment-Instagram):** Automated data collection system scraping comments using Selenium[cite: 1, 2].
