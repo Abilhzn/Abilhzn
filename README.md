@@ -3,9 +3,9 @@
 ---
 
 
-I am a Data Science student (Class of 2023) at Telkom University with a primary focus on the intersection of **Data Scientist**, **Data Engineering** and **Data Analyst**. I don't just build models; I design the architecture that feeds them. 
+I am a Data Science student (Class of 2023) at Telkom University with a primary focus on the intersection of **Data Engineering**, **Data Scientist** and **Data Analyst**. I don't just build models; I design the architecture that feeds them. 
 
-Currently serving as an **Assistant at Big Data Laboratory** and a **Teaching Assistant** for core analytical courses, I bridge the gap between theoretical data science and practical engineering.
+Currently serving as an **Assistant at Big Data Laboratory** and a **Teaching Assistant** for core analytical courses, I bridge the gap between theoretical data science and practical engineering. Additionally, I routinely build data pipelines and tune machine learning models natively on an 8GB RAM machine—because code optimization is a survival skill, not just a preference.
 
 - **GPA:** 3.57 / 4.00
 - **Role:** Lab Assistant (Study Group: Data Warehouse) & Teaching Assistant.
@@ -17,7 +17,7 @@ Currently serving as an **Assistant at Big Data Laboratory** and a **Teaching As
 
 **Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,6 +31,9 @@ Currently serving as an **Assistant at Big Data Laboratory** and a **Teaching As
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
 **Data Engineering & Tools**  
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-017CEE?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E44C30?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -40,20 +43,18 @@ Currently serving as an **Assistant at Big Data Laboratory** and a **Teaching As
 
 ### Featured Projects
 
-#### 📈 Data Scientist (Predictive Modeling)
-*   **[Stock Recommendation System](https://github.com/Abilhzn/Sistem-Prediksi-Harga-Saham):** A hybrid approach combining Deep Learning (Time-Series), NLP (News Sentiment), and Fuzzy Logic for fundamental analysis[cite: 1].
-*   **[Air Quality Forecasting](https://github.com/Abilhzn/Final-Project-DS):** Predicting PM2.5 & PM10 levels using seasonal regression with XGBoost and LightGBM.
-*   **[NutriSnap](https://github.com/Abilhzn/Nutrisnap):** AI-powered OCR and Fuzzy Logic model to translate food labels into health reports[cite: 1].
+#### 💾 Data Engineer (Architecture, Orchestration & ETL)
+*   **[Automated BWF Match Data Pipeline](https://github.com/Abilhzn/Automated-BWF-Match-Data-Pipeline-via-Apache-Airflow):** Automated data scraping and orchestration pipeline utilizing Apache Airflow for sports analytics.
+*   **[ELT Pipeline Workflow](https://github.com/Abilhzn/ELT-Pipeline-Workflow):** Designing and demonstrating Extract, Load, Transform (ELT) integration workflows.
+*   **[Instagram Scraper](https://github.com/Abilhzn/Scraping-Comment-Instagram):** Automated data collection system scraping comments using Selenium[cite: 1, 2].
+
+#### 📈 Data Scientist (Predictive & Deep Learning Modeling)
+*   **[Term Deposit Analysis and Classification](https://github.com/Abilhzn/term-deposit-analysis-and-classification):** Classification modeling built for the DSI Data Quest Event[cite: 2].
+*   **[Head Count Using Enhanced MC-CNN](https://github.com/Abilhzn/Head-Count-Using-Enhanced-MC-CNN):** Implementing Multi-Column Convolutional Neural Networks for advanced crowd counting and computer vision[cite: 2].
+*   **[NutriSnap](https://github.com/Abilhzn/Nutrisnap):** AI-powered tool to determine food safety metrics[cite: 2].
 
 #### 🔍 Data Analyst (Insights & Visualization)
-*   **[Football Fan Sentiment Analysis](https://github.com/Abilhzn):** Analyzing fan reactions and sentiments using NLP based on match results[cite: 1].
-*   **[DiaCare](https://github.com/Abilhzn/DiaCare):** Data-driven risk assessment for diabetes through user health metrics and monitoring[cite: 1].
-*   **[Student Pose Estimation](https://github.com/Abilhzn):** Utilizing Computer Vision to generate engagement metrics and behavioral analysis for educators[cite: 1].
-
-#### 💾 Data Engineer (Architecture & ETL)
-*   **[DWH Integration Pipeline](https://github.com/Abilhzn):** Building ETL logic with Temporal Validation and Fuzzy Matching to maintain data integrity across fragmented datasets.
-*   **[Instagram Scraper](https://github.com/Abilhzn/scrapping-comment-instagram):** Automated data collection system using Selenium to feed sentiment analysis pipelines.
-*   **[Big Data Foundations](https://github.com/Abilhzn):** Implementing distributed data processing using Hadoop and MapReduce frameworks.
+*   **[DiaCare Backend](https://github.com/Abilhzn/DiaCare-Backend) & [Diabetes Risk Predictor](https://github.com/Abilhzn/Fuzzy-logic-to-predict-diabetest-risk):** Utilizing Fuzzy Logic to assess and predict diabetes risk based on user health metrics[cite: 2].
 
 ---
 
