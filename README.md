@@ -95,6 +95,6 @@ Currently serving as an **Assistant at Big Data Laboratory** and a **Teaching As
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abilhzn/Abilhzn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Abilhzn/Abilhzn/output/snake.svg" alt="Snake animation"/>
 
 ###
